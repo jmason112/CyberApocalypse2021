@@ -14,7 +14,7 @@
 		"makelarisjr"
 	],
 	"dependencies": {
-		"express": "^4.21.1",
+		"express": "^4.21.2",
 		"flat": "5.0.2",
 		"pug": "^3.0.3"
 	}
